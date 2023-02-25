@@ -1,5 +1,5 @@
 # stochastic-processes
-A selection of very basic 1-dim and 2-dim continuous time stochastic processes in Processing.
+A selection of very basic 1-dim and 2-dim continuous time stochastic processes in Processing, for fun/visualisation practice.
 
 # 1-dim:
 ## Brownian motion
